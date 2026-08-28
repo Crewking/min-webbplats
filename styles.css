@@ -217,6 +217,7 @@ label {
 }
 
 .menu-area {
+    grid-area: image;
     padding-right: 60px;
     padding-left: 20px;
     display: flex;
