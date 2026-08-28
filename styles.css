@@ -266,30 +266,27 @@ label {
         gap: 30px;
     }
 
-    /* Text & Image spacing */
     main {
         padding: 30px 20px;
     }
 
     h1 {
-        font-size: 2.5rem; /* Downscale large heading */
+        font-size: 2.5rem;
     }
 
     p {
-        padding-right: 0; /* Remove right padding so text uses full width */
+        padding-right: 0;
     }
 
     .image-area {
         padding: 0 20px 30px 20px;
     }
 
-    /* Form controls for mobile */
     .select-wrapper {
-        width: 100%; /* Make dropdowns stretch full width */
+        width: 100%;
     }
 
-    select, 
-    input {
+    select, input {
         width: 100%;
     }
 
